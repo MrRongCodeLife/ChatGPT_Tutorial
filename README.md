@@ -2,7 +2,13 @@
 
 Outline
 1. Introduce (GET STARTED)
+    1.0 Tools
+        Documentation 
+        API reference 
+        Examples 
+        Playground
     1.1 Key concepts
+        ChatGPT
         prompts
             https://platform.openai.com/docs/introduction/overview
         Tokens
@@ -36,4 +42,6 @@ Outline
             https://platform.openai.com/docs/libraries/community-libraries
     2.2 Text completion
     2.3 Chat completions
+    2.4 Image generation
+    2.5 Speech to text
 3. Project
