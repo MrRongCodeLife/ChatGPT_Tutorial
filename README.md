@@ -2,7 +2,7 @@
 
 Outline
 1. 初级基础入门 Introduce (GET STARTED) 
-    1.0 Tools
+    1.1 Tools
         Documentation 
         API reference 
         Examples 
@@ -10,7 +10,7 @@ Outline
         chatgpt itself
         community
             https://community.openai.com/
-    1.1 Key concepts
+    1.2 Key concepts
         ChatGPT
         prompts
             https://platform.openai.com/docs/introduction/overview
@@ -21,14 +21,14 @@ Outline
             https://openai.com/pricing
         Models
             https://platform.openai.com/docs/models/overview
-    1.2 demo
+    1.3 demo
         Chat
         Text Completion
         Embeddings
         Speech to text
         Image generation
         Fine-tuning
-    1.3 web crawler (基于openai.com网站信息生成上下文，进行问答)
+    1.4 web crawler (基于openai.com网站信息生成上下文，进行问答)
         https://platform.openai.com/docs/tutorials/web-qa-embeddings
         
 2. 中级编程开发 Base Knowledge(GUIDS)
