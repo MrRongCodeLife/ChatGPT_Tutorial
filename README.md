@@ -7,6 +7,9 @@ Outline
         API reference 
         Examples 
         Playground
+        chatgpt itself
+        community
+            https://community.openai.com/
     1.1 Key concepts
         ChatGPT
         prompts
@@ -25,11 +28,7 @@ Outline
         Speech to text
         Image generation
         Fine-tuning
-    1.3 help
-        chatgpt
-        community
-            https://community.openai.com/
-    1.4 web crawler (基于openai.com网站信息生成上下文，进行问答)
+    1.3 web crawler (基于openai.com网站信息生成上下文，进行问答)
         https://platform.openai.com/docs/tutorials/web-qa-embeddings
         
 2. 中级编程开发 Base Knowledge(GUIDS)
