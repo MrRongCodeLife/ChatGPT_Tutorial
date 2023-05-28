@@ -32,7 +32,7 @@ Outline
         Fine-tuning
     1.4 web crawler (基于openai.com网站信息生成上下文，进行问答)
         https://platform.openai.com/docs/tutorials/web-qa-embeddings
-        
+    1.5 使用规范 Terms & policies
 2. 中级编程开发 Base Knowledge(GUIDS)
     2.1 API key & Curl
     2.1 Dev evn setup
