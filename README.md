@@ -34,6 +34,7 @@ Outline
         https://platform.openai.com/docs/tutorials/web-qa-embeddings
         
 2. 中级编程开发 Base Knowledge(GUIDS)
+    2.1 API key & Curl
     2.1 Dev evn setup
         python
             https://platform.openai.com/docs/libraries/python-bindings
