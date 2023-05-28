@@ -11,16 +11,17 @@ Outline
         community
             https://community.openai.com/
     1.2 Key concepts
-        ChatGPT
-        prompts
+        什么是ChatGPT
+        提示词prompts
             https://platform.openai.com/docs/introduction/overview
-        Tokens
+        分词Tokens
             one token is approximately 4 characters or 0.75 words for English text
             https://platform.openai.com/tokenizer
             按token收费
             https://openai.com/pricing
-        Models
+        模型Models
             https://platform.openai.com/docs/models/overview
+        温度Temperature
     1.3 demo
         Chat
         Text Completion
