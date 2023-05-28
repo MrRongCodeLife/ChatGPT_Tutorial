@@ -22,6 +22,7 @@ Outline
         模型Models
             https://platform.openai.com/docs/models/overview
         温度Temperature
+            https://platform.openai.com/docs/quickstart/adjust-your-settings
     1.3 demo
         Chat
         Text Completion
