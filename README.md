@@ -4,12 +4,18 @@ Outline
 1. 初级基础入门 Introduce (GET STARTED) 
     1.1 Tools
         Documentation 
+            https://platform.openai.com/docs/introduction
         API reference 
+            https://platform.openai.com/docs/api-reference
         Examples 
+            https://platform.openai.com/examples
         Playground
+            https://platform.openai.com/playground
         chatgpt itself
         community
             https://community.openai.com/
+        cookbook
+            https://github.com/openai/openai-cookbook
     1.2 Key concepts
         什么是ChatGPT
         提示词prompts
