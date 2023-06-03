@@ -1,8 +1,8 @@
 # ChatGPT_Tutorial
 
 Outline
-1. 初级基础入门 Introduce (GET STARTED) 
-    1.1 Tools
+##1. 初级基础入门 Introduce (GET STARTED) 
+    ###1.1 Tools
         Documentation 
             https://platform.openai.com/docs/introduction
         API reference 
