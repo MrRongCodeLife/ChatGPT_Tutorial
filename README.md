@@ -45,17 +45,29 @@ https://github.com/openai/openai-cookbook
     
 ## 3. 中级编程开发 Base Knowledge(GUIDS)
 ### 3.1 API key & Curl
-### 3.2 Dev evn setup
-        python
-            https://platform.openai.com/docs/libraries/python-bindings
-        node.js
-            https://platform.openai.com/docs/libraries/node-js-library
-        java
-            https://platform.openai.com/docs/libraries/community-libraries
-### 3.3 Text completion
-### 3.4 Chat completions
-### 3.5 Image generation
-### 3.6 Speech to text
+### 3.2 Dev Env Setup - python
+   #### 安装python
+       https://www.python.org/downloads/
+       这里使用3.9.6
+   #### 安装pip
+        https://pip.pypa.io/en/stable/installation/
+   #### VSCode
+   Jupyter
+   Jupyter Keymap
+   Jupyter Slide Show
+   Jupyter Cell Tags
+   #### 创建环境
+   #### 运行示例
+    https://platform.openai.com/docs/libraries/python-bindings
+
+### 3.3 Dev Env Setup - node.js
+    https://platform.openai.com/docs/libraries/node-js-library
+### 3.4 Dev Env Setup - java
+    https://platform.openai.com/docs/libraries/community-libraries
+### 3.5 Text completion
+### 3.6 Chat completions
+### 3.7 Image generation
+### 3.8 Speech to text
 
 ## 4. 高级项目实战 Project
 
