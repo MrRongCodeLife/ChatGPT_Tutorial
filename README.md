@@ -49,6 +49,7 @@ https://github.com/openai/openai-cookbook
    #### 安装python
        https://www.python.org/downloads/
        这里使用3.9.6
+       安装多个版本python, pyenv
    #### 安装pip
         https://pip.pypa.io/en/stable/installation/
    #### VSCode
@@ -62,6 +63,7 @@ https://github.com/openai/openai-cookbook
 
 ### 3.3 Dev Env Setup - node.js
     https://platform.openai.com/docs/libraries/node-js-library
+    安装多个版本，nvm
 ### 3.4 Dev Env Setup - java
     https://platform.openai.com/docs/libraries/community-libraries
 ### 3.5 Text completion
